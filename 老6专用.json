@@ -12,6 +12,14 @@
                 "筛选": "1"
             }
         },
+		{
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/alist.json"}
         {"key":"drpy_js_超前点播","name":"影视 | 超前点播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/超前点播.js"},
         {
       "key": "短剧one",
