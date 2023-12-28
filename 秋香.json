@@ -1,0 +1,391 @@
+{
+  "sites": [
+    {
+      "key": "996",
+      "name": "老6专线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "     \r\n\"分类url\": \"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html\",\r\n                \"分类\": \"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14\",\r\n                \"筛选\": \"1\""
+    },
+    {
+      "key": "短剧1",
+      "name": "小短剧📺",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6822/api.php/app/"
+    }
+  ],
+  "lives": [
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV1",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv1"
+          ]
+        },
+        {
+          "name": "CCTV2",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv2"
+          ]
+        },
+        {
+          "name": "CCTV3",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv3"
+          ]
+        },
+        {
+          "name": "CCTV4",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv4"
+          ]
+        },
+        {
+          "name": "CCTV5",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv5"
+          ]
+        },
+        {
+          "name": "CCTV5+",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv5p"
+          ]
+        },
+        {
+          "name": "CCTV6",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv6"
+          ]
+        },
+        {
+          "name": "CCTV7",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv7"
+          ]
+        },
+        {
+          "name": "CCTV8",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv8"
+          ]
+        },
+        {
+          "name": "CCTV9",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv9"
+          ]
+        },
+        {
+          "name": "CCTV10",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv10"
+          ]
+        },
+        {
+          "name": "CCTV11",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv11"
+          ]
+        },
+        {
+          "name": "CCTV12",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv12"
+          ]
+        },
+        {
+          "name": "CCTV13",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv13"
+          ]
+        },
+        {
+          "name": "CCTV14",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv14"
+          ]
+        },
+        {
+          "name": "CCTV15",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv15"
+          ]
+        },
+        {
+          "name": "CCTV16",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv16"
+          ]
+        },
+        {
+          "name": "CCTV17",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=cctv17"
+          ]
+        },
+        {
+          "name": "电影1905国际",
+          "urls": [
+            "http://47.242.38.45:9999/1905.php?id=1905"
+          ]
+        },
+        {
+          "name": "电影1905国际内",
+          "urls": [
+            "http://47.242.38.45:9999/1905.php?id=1905-2"
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=gxws"
+          ]
+        },
+        {
+          "name": "凤凰卫视中文台",
+          "urls": [
+            "http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8"
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "http://47.242.38.45:9999/ysp.php?id=bjws"
+          ]
+        }
+      ]
+    }
+  ]
+}
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
+}
