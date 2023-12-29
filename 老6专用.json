@@ -40,6 +40,26 @@
       "ext": "https://www.libvio.pro/"
     },
 {
+      "key": "csp_XBPQ_短视频",
+      "name": "☘️短视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/duanshipin.json"
+    },
+{
+      "key": "csp_New6v",
+      "name": "🧲新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com"
+    },
+{
       "key": "玩偶哥哥",
       "name": "玩偶哥哥",
       "type": 3,
