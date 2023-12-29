@@ -68,6 +68,39 @@
       "ext": "https://fanty.run.goorm.site/ext/biliych.json"
     },
 {
+		    "key": "飞龙在天",
+		    "name": "秒播-A",
+		    "playerType": 1,
+		    "type": 3,
+		    "api": "csp_AppYsV2",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable": 1,
+		    "ext": "http://122.228.84.103:6117/api.php/app/"
+		},
+		{
+		    "key": "直捣黄龙",
+		    "name": "秒播-B",
+		    "playerType": 1,
+		    "type": 3,
+		    "api": "csp_AppYsV2",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable": 1,
+		    "ext": "http://122.228.84.103:6119/api.php/app/"
+		},
+		{
+		    "key": "黯然销魂",
+		    "name": "秒播-C",
+		    "playerType": 1,
+		    "type": 3,
+		    "api": "csp_AppYsV2",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable": 1,
+		    "ext": "http://122.228.84.103:6118/api.php/app/"
+		},
+{
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
