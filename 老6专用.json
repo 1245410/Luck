@@ -428,12 +428,23 @@
         }],
     "lives" : [
             {
-            "name" : "live",
-            "type" : 0,
-            "url" : "http://yishi.yy365.vip/public/uploads/itvbox/tv1.txt",
-            "epg" : "http://epg.tvcms.top/api/diyp/",
-            "logo" :"https://epg.112114.xyz/logo/{name}.png"
-        }],
+      "name": "sao0",
+      "type": 0,
+      "url": "https://xhdwc.tk/tvlive.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ipv6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }],
 	"spider": "https://zjqliling.oss-cn-shanghai.aliyuncs.com/Yoursmile.jar;md5;a8b67c6e7ae00f56c43f6946764f0102",
 	"parses": [
 	    {"name":"Json并发","type":2,"url":"Parallel"},
