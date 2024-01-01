@@ -20,32 +20,12 @@
       "ext": "https://d.kstore.space/download/6296/json/短剧.json"
     },
 {
-"key": "Freeok",
-      "name": "💜Freeok",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
-        "分类": "电影&剧集&动漫&综艺",
-        "搜索url": "https://www.cupfox.app/s/{wd}",
-        "分类值": "1&2&3&4",
-        "嗅探词": "m3u8#.m3u8#.mp4#mp4",
-        "搜索二次截取": "type=\"application/json\">&&</script>",
-        "搜索数组": "{\"te&&}[包含:freeok]",
-        "搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
-        "搜索标题": "xt\":\"&&\"",
-        "搜索链接": "\"url\":\"&&\"",
-        "搜索副标题": "FREEOK",
-        "搜索模式": "1",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "<p>&&</p>"
-      }
-    },
+			"key": "南坊",
+			"name": "💖分享南坊",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "https://download.kstore.space/download/4127/Xbpq/南坊.json"
+		},
 {
       "key": "6V磁力",
       "name": "💘6V磁┃4K",
