@@ -60,14 +60,93 @@
       "ext": "http://www.xb6v.com"
     },
 {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
+
+      "key": "超级123",
+
+      "name": "1080P-1",
+
+      "type": 1,
+
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+
       "searchable": 1,
+
       "quickSearch": 1,
+
       "filterable": 1,
-      "ext": "https://jihulab.com/yueer/yueera/-/raw/main/10.19/Tvbox/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
+
+      "changeable": 1,
+
+      "categories": [
+
+        "国产剧",
+
+        "纪录片",
+
+        "欧美剧",
+
+        "香港剧",
+
+        "动作片",
+
+        "爱情片",
+
+        "科幻片",
+
+        "恐怖片",
+
+        "剧情片",
+
+        "战争片",
+
+        "喜剧片",
+
+        "动画片",
+
+        "犯罪片",
+
+        "韩国剧",
+
+        "动漫",
+
+        "电影",
+
+        "大陆综艺",
+
+        "港台综艺",
+
+        "日韩综艺",
+
+        "欧美综艺",
+
+        "台湾剧",
+
+        "国产动漫",
+
+        "日本动漫",
+
+        "欧美动漫",
+
+        "泰国剧",
+
+        "日剧",
+
+        "电影解说",
+
+        "奇幻片",
+
+        "灾难片",
+
+        "悬疑片",
+
+        "其他片",
+
+        "体育赛事",
+
+        "海外剧"
+
+      ]
+
     },
 {"key": "开心影院","name": "开心就好😁","type": 1,"api": "http://www.ttkx.site:33/api.php/provide/vod/","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","战争片","国产剧","港台剧","日韩剧","欧美剧","国产动漫","动漫","综艺","日韩动漫","港台动漫","动画片","短剧","国产综艺","喜剧片","爱情片","科幻片","恐怖片","剧情片","灾难片","悬疑片","犯罪片","奇幻片","纪录片"]},
 {
@@ -156,14 +235,14 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "加亮影视",
-      "name": "🪔加亮影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.jialiangos.com:88/api.php/app/"
+            "key": "csp_woggcli",
+            "name": "玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
 {"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
 {"key":"奇优","name":"️💢奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json"},
