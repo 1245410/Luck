@@ -491,16 +491,47 @@
       "playerType": 2,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-{"key":"💞老鸭资源💞","name":"💞关💞","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*博天堂","name":"注","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"zp028","name":"我","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"*淫水机资源","name":"还","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"*小湿妹资源","name":"有","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"*香奶儿资源","name":"意","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"💞色猫资源💞","name":"想","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"💞色窝资源💞","name":"不","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*老鸭1","name":"*到","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"*老鸭2","name":"*的惊喜","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{
+      "key": "Lib",
+      "name": "🌟利播┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pro/"
+    },
+{
+      "key": "zxzj",
+      "name": "📗在线┃直连",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+{
+      "key": "毛驴",
+      "name": "🍓毛驴┃直连",
+      "type": 3,
+      "api": "csp_MLYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
+    },
+{
+      "key": "Czsapp",
+      "name": "📔厂长┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy22.com/"
+    },
            {
             "key": "88js",
             "name": "🏀⚽ 球赛直播",
