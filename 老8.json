@@ -29,6 +29,61 @@
 			"ext": "https://download.kstore.space/download/4127/Xbpq/南坊.json"
 		},
 {
+      "key": "csp_Xinsj",
+      "name": "✨新视觉",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.6080yy3.com/"
+    },
+{
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲┃玩偶┃影视",
+      "api": "csp_Panda",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://dt.xn--yety82d.love/玩偶哥哥.json"
+    },
+{
+      "key": "蓝猫动漫",
+      "name": "🌊┃蓝猫┃动漫",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+    },
+{
+      "key": "csp_阿里七夜",
+      "name": "阿里 ┃ 七夜[4K]",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "csp_TuGou",
+      "name": "阿里 ┃ 土狗[4K]",
+      "type": 3,
+      "api": "csp_TuGou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+{
+      "key": "虎虎",
+      "name": "🐯┃虎虎┃影视",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "http://我不是.肥猫.live/json/虎虎.json"
+    },
+{
       "key": "6V磁力",
       "name": "💘6V磁┃4K",
       "type": 3,
