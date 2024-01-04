@@ -855,16 +855,6 @@
 	    {"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Json轮询","type":2,"url":"Sequence"}
 	],
-	"lives": [
-    {
-      "name": "live2",
-      "type": 0,
-      "url": "https://jihulab.com/moyuer/moyu/-/raw/main/moyulive.txt",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
 	"ijk": [
 		{
 			"group": "硬解码",
