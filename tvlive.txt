@@ -50,3 +50,14 @@
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+梨园频道,http://121.24.99.168:8090/hls/45/index.m3u8
+巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
+浙江钱江频道,http://ali-vl.cztv.com/channels/lantian/channel002/360p.m3u8?a=1000&d=22d8a6e04d1f85b5bdb27400660f8dd6&k=90b52ec084703724ecb442aa04461d8c&t=1703786501
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8?a=1000&d=22d8a6e04d1f85b5bdb27400660f8dd6&k=ec8df4397e8f819213aa54d38b7d4564&t=1703786638
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/360p.m3u8
+浙江少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+ 半岛综合,http://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
